@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinandan-sarkar&show_icons=true&locale=en&layout=compact" alt="abhinandan00" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandan00&show_icons=true&locale=en" alt="abhinandan-sarkar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandan-sarkar&show_icons=true&locale=en" alt="abhinandan-sarkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandan-sarkar&" alt="abhinandan-sarkar" /></p>
